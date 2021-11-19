@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AAmoflex
-- 👀 I’m interested in cybersecurity/hacking 
+- 👀 I’m interested in cybersecurity / hacking 
 - 🌱 I’m currently learning programming language python
 
 <!---
